@@ -43,3 +43,7 @@ $(call inherit-product, packages/apps/RealmeDirac/dirac.mk)
   - dirac effect defined in audio_effects.xml
 * This Implementation is tested only in realme devices for now.
 * In some cases UUID may differ, causing application to crash, adapt UUID for yourself or if you find a better way todo this, Open a Pull Request :D .
+
+```
+git clone https://github.com/HyperTeam/android_packages_apps_RealmeDirac packages/apps/RealmeDirac
+```
